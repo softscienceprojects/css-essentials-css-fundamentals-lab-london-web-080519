@@ -30,6 +30,7 @@ figcaption {
 
 #details {
   display: block;
+  background: #eee;
 }
 
 #details ~ div {
