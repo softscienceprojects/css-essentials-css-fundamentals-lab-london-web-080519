@@ -7,6 +7,7 @@ body {
 header {
   margin: auto;
   display: inline-block;
+  width: 50%;
 }
 
 nav a {
