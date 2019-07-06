@@ -39,6 +39,7 @@ figcaption {
 }
 
 #details div {
+  background: #ccc;
   float: left;
   width: 25%;
   padding: 5px;
