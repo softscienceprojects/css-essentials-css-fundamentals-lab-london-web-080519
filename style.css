@@ -34,6 +34,7 @@ figcaption {
   width: 800px;
   margin: auto;
   padding-bottom: 10px;
+  text-align: center;
 }
 
 #details {
