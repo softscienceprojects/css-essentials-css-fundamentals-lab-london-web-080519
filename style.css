@@ -33,6 +33,6 @@ figcaption {
   background: #eee;
 }
 
-#details ~ div {
+#details div {
   float: left;
 }
